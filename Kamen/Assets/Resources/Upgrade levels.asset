@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3726c6908f7dde4cb1906406ecab183, type: 3}
+  m_Name: Upgrade levels
+  m_EditorClassIdentifier: 
+  Levels:
+  - LevelName: Rock
+    LevelIcon: {fileID: 21300000, guid: 46d1767973513d84aa903caef018afcc, type: 3}
+  - LevelName: Pistol
+    LevelIcon: {fileID: 21300000, guid: 21012cdd4d4d6d945b295e7ff5c7b808, type: 3}
+  - LevelName: Rifle
+    LevelIcon: {fileID: 21300000, guid: 0fa2d1eeab173824b96e75356790bcf0, type: 3}
+  - LevelName: Turret
+    LevelIcon: {fileID: 21300000, guid: b5d78b5490e5c204492edf71818d1b05, type: 3}
+  - LevelName: Frost Turret
+    LevelIcon: {fileID: 21300000, guid: 48988a89e59011b4d8477ee48c9fd275, type: 3}
